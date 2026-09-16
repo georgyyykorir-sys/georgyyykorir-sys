@@ -1,7 +1,7 @@
 Hi ! My name is George Korir
 =====================================================================================================================================
 
-Data Scientist & Telecommunications Engineer
+ Telecommunications Engineer & Data Scientist
 --------------------------------------------
 
 
