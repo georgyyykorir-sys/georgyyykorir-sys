@@ -4,7 +4,7 @@ Hi ! My name is George Korir
 Data Scientist & Telecommunications Engineer
 --------------------------------------------
 
-* I'm based in Kenya
+
 *  You can contact me at [georgyyykorir@gmail.com](mailto:georgyyykorir@gmail.com)
 
 <p align="left">
